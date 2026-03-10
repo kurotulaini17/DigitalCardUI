@@ -38,7 +38,7 @@ class Digitalcard extends StatelessWidget {
               CircleAvatar(radius: 50, child: Icon(Icons.person, size: 50)),
               SizedBox(height: 15),
               Text(
-                "Nama Kamu",
+                "Nama",
                 style: TextStyle(fontSize: 22, fontWeight: FontWeight.bold),
               ),
               Text("NIM/Profesi"),
@@ -50,7 +50,7 @@ class Digitalcard extends StatelessWidget {
                     padding: EdgeInsets.all(8.0),
                     child: Icon(Icons.email),
                   ),
-                  Text("kurotulaini741@gmail.com"),
+                  Text("alamat email anda@gmail.com"),
                 ],
               ),
             ],

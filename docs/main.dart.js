@@ -60588,7 +60588,7 @@ A.Bp.prototype={
 P(a){return new A.rK(new A.zN(null),null)}}
 A.zN.prototype={
 P(a){var s=null,r=A.Z9("Digital Card",s),q=A.M7(15),p=A.d([new A.fB(0,B.iS,B.xR,new A.p(0,5),10)],t.xq),o=t.nA
-return new A.tU(new A.pC(r,new A.HV(s,s,1/0,56),s),new A.Dw(A.N1(s,A.aiA(A.d([new A.z2(A.a7g(B.zl,s,50),50,s),A.a7R(s,15,s),A.Z9("Nama Kamu",A.lW(s,s,s,s,s,s,s,s,s,s,s,22,s,s,B.hn,s,s,!0,s,s,s,s,s,s,s,s)),A.Z9("NIM/Profesi",s),new A.zV(s),A.alS(A.d([new A.j7(new A.bw(8,8,8,8),A.a7g(B.zk,s,s),s),A.Z9("kurotulaini741@gmail.com",s)],o),B.c0,B.pd,B.pf)],o),B.d5,B.pe),B.N,s,new A.ec(B.i,s,s,q,p,s,B.bb),s,s,new A.bw(20,20,20,20),new A.bw(20,20,20,20),s,s,s),s),B.y9,s)}}
+return new A.tU(new A.pC(r,new A.HV(s,s,1/0,56),s),new A.Dw(A.N1(s,A.aiA(A.d([new A.z2(A.a7g(B.zl,s,50),50,s),A.a7R(s,15,s),A.Z9("Nama",A.lW(s,s,s,s,s,s,s,s,s,s,s,22,s,s,B.hn,s,s,!0,s,s,s,s,s,s,s,s)),A.Z9("NIM/Profesi",s),new A.zV(s),A.alS(A.d([new A.j7(new A.bw(8,8,8,8),A.a7g(B.zk,s,s),s),A.Z9("alamat email anda@gmail.com",s)],o),B.c0,B.pd,B.pf)],o),B.d5,B.pe),B.N,s,new A.ec(B.i,s,s,q,p,s,B.bb),s,s,new A.bw(20,20,20,20),new A.bw(20,20,20,20),s,s,s),s),B.y9,s)}}
 A.la.prototype={
 bo(a){var s=a.a,r=this.a,q=s[8]
 r.$flags&2&&A.a6(r)
